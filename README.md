@@ -1,6 +1,6 @@
 ### HEY THERE! 👋
 
-![LOGO](/Users/lisarawlings/Desktop/CodeNation/Week Three/LOGO.jpg)
+![LOGO](https://github.com/lisarawlings/lisarawlings/blob/main/LOGO.jpghttps://github.com/lisarawlings/lisarawlings/blob/main/LOGO.jpg)
 <!-- **lisarawlings/lisarawlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm Lisa, currently a Team Leader on maternity leave wanting to transition into the world of code!
