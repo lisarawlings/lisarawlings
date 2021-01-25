@@ -1,8 +1,9 @@
 ### HEY THERE! 👋
 
+![IMAGE] (/Users/lisarawlings/Desktop/CodeNation/Week Three/LOGO.jpg)
 <!-- **lisarawlings/lisarawlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Lisa, currently a Team Leader wanting to transition into the world of code!
+I'm Lisa, currently a Team Leader on maternity leave wanting to transition into the world of code!
 
 - 🔭 I’m currently working on becoming more confident in coding!
 - 🌱 I’m currently learning the basics!
