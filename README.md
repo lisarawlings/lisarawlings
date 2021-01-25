@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **lisarawlings/lisarawlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Lisa, currently a Team Leader wanting to transition into the world of code!
