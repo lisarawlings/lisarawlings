@@ -13,8 +13,21 @@ I'm completely new to coding and I'm currently learning with the help from Code 
 | CSS |
 | Git |
 
-- 📩 Want to contact me? LinkedIn: [LisaRawlings](https://www.linkedin.com/in/lisa-rawlings-115448204) or drop me an E-Mail: lisa-rawlings@hotmail.com
+- 📩 Want to contact me? 
+You can contact me via [![LinkedIn][1.2]][1], or on [lisa-rawlings@hotmail.com[2.2]]
+
+
+
+LinkedIn: [LisaRawlings](https://www.linkedin.com/in/lisa-rawlings-115448204) or drop me an E-Mail: lisa-rawlings@hotmail.com
+
+<!-- Icons -->
+[2.2]: http://i.imgur.com/wWzX9uB.png 
+[1.2]: https://cdn.iconscout.com/icon/free/png-256/apple-mail-493152.png 
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/lisa-rawlings-115448204
 
 ### I will keep this page up to date with everything I have worked on so far!
 
 [ZenGarden](https://www.youtube.com/embed/0wE7dM2tD6A)
+
+
