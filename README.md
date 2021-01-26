@@ -24,7 +24,7 @@ LinkedIn: [LisaRawlings](https://www.linkedin.com/in/lisa-rawlings-115448204) or
 [2.2]: http://i.imgur.com/wWzX9uB.png 
 [1.2]: https://cdn.iconscout.com/icon/free/png-256/apple-mail-493152.png 
 <!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/lisa-rawlings-115448204
+[2]: https://www.linkedin.com/in/lisa-rawlings-115448204
 
 ### I will keep this page up to date with everything I have worked on so far!
 
