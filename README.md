@@ -1,6 +1,6 @@
 ### HEY THERE! 👋
 
-![LOGO])(https://github.com/lisarawlings/lisarawlings/issues/1#issue-794110262)
+![LOGO](https://github.com/lisarawlings/lisarawlings/issues/1#issue-794110262)
 
 <!-- **lisarawlings/lisarawlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
