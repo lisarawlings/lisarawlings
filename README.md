@@ -1,13 +1,14 @@
 ### HEY THERE! 👋
 
-![LOGO](https://github.com/lisarawlings/lisarawlings/blob/main/LOGO.jpghttps://github.com/lisarawlings/lisarawlings/blob/main/LOGO.jpg)
+![LOGO])(https://github.com/lisarawlings/lisarawlings/issues/1#issue-794110262)
+
 <!-- **lisarawlings/lisarawlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Lisa, currently a Team Leader on maternity leave wanting to transition into the world of code!
+I'm completely new to coding and I'm currently learning with the help from Code Nation and their 12 week Master Coding bootcamp!
 
-- 🔭 I’m currently working on becoming more confident in coding!
-- 🌱 I’m currently learning the basics!
-- 📫 How to reach me: [LisaRawlings](https://www.linkedin.com/in/lisa-rawlings-115448204) 
-- ⚡ Fun fact: I qualified as a Primary School teacher in 2016!
+
+
+- 📫 Want to contact me? [LisaRawlings](https://www.linkedin.com/in/lisa-rawlings-115448204) or [Instagram](https://www.instagram.com/lisarawlings)
+⚡ Fun fact? I qualified as a Primary School teacher in 2016!
  
  
